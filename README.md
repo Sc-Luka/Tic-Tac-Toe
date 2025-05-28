@@ -6,6 +6,14 @@ A simple and educational Tic Tac Toe game built using **Qt (C++)**, featuring tw
 - Player vs AI (using the Minimax algorithm with alpha-beta pruning)
 
 ---
+## 📸 Screenshot
+
+
+![Screenshot 1](https://github.com/user-attachments/assets/b7b59fc5-2ead-4ed3-9cff-9500d38fc963)
+
+![Screenshot 2](https://github.com/user-attachments/assets/cb8a6bf6-18d8-4d26-9a79-9672c327a5ca)
+
+![Screenshot 3](https://github.com/user-attachments/assets/3ce3890b-fa06-4c47-884b-adfe634417df)
 
 ## 🧠 Features
 
