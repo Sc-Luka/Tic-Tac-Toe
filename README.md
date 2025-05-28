@@ -15,6 +15,8 @@ A simple and educational Tic Tac Toe game built using **Qt (C++)**, featuring tw
 
 ![Screenshot 3](https://github.com/user-attachments/assets/3ce3890b-fa06-4c47-884b-adfe634417df)
 
+---
+
 ## 🧠 Features
 
 - ✅ GUI using Qt
